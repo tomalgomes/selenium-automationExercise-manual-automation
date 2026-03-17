@@ -1,6 +1,6 @@
 # Requirement Analysis
 
-## 1. System Overview
+## System Overview
 
 The target application for this project is Automation Exercise, a demo e-commerce platform designed for testing and automation practice.
 
