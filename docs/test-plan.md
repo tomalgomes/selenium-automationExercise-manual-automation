@@ -1,14 +1,14 @@
 # Test Plan
 
-## Test Plan Identifier
+## 1. Test Plan Identifier
 
 TP-AUTOEX-001
 
-## Introduction
+## 2. Introduction
 
 This test plan is designed for testing of the Automation Exercise application. The system is a web-based demo e-commerce platform. The purpose of this testing project is to test the core user functionality of the web application focusing on its most important business workflows using manual and automated testing practices.
 
-## Test Objectives
+## 3. Test Objectives
 
 The objectives for testing the application are as follows:
 
@@ -19,9 +19,9 @@ The objectives for testing the application are as follows:
 - Perform API validation where applicable.
 - Build automated tests for key workflows.
 
-## Test Scope
+## 4. Test Scope
 
-### In Scope:
+### 4.1 In Scope:
 
 - User authentication workflows
 - Product browsing and search functionality
@@ -30,7 +30,7 @@ The objectives for testing the application are as follows:
 - Payment workflow
 - UI validation of critical user interface components
 
-### Out of Scope:
+### 4.2 Out of Scope:
 
 - Performance testing
 - Security and penetration testing
@@ -38,7 +38,7 @@ The objectives for testing the application are as follows:
 - Cross-device compatibility testing
 - Email verification workflows
 
-## Test Approach
+## 5. Test Approach
 
 Manual testing will be conducted to verify core user functionality and business workflows of the application.  
 Automated testing will be implemented to automate critical regression scenarios using:
@@ -47,7 +47,7 @@ Automated testing will be implemented to automate critical regression scenarios 
 
 Testing will include functional, UI, positive, negative, edge case, and API testing.
 
-## Test Environment
+## 6. Test Environment
 
 **OS:** Windows 10 Pro  
 **Browser:** Chrome, Firefox  
@@ -55,7 +55,7 @@ Testing will include functional, UI, positive, negative, edge case, and API test
 **Repository:** Github Project Repository  
 **API Testing:** Postman  
 
-## Test Deliverables
+## 7. Test Deliverables
 - Requirement Analysis
 - Test Plan
 - Test Scenarios
@@ -64,19 +64,19 @@ Testing will include functional, UI, positive, negative, edge case, and API test
 - Automation Test Scripts (Selenium)
 - Test Summary Report
 
-## Entry Criteria
+## 8. Entry Criteria
 - Target website availability
 - Test environment ready
 - Required browsers installation
 - Automation tools installation
 - Test scenarios prepared
 
-## Exit Criteria
+## 9. Exit Criteria
 - All tests executed
 - Critical bugs reported
 - Test summary report prepared
 
-## Risks and Mitigation
+## 10. Risks and Mitigation
 
 | Risk | Mitigation |
 |-|-|
