@@ -1,6 +1,6 @@
 # Test Scenarios
 
-## User Management
+## 1. User Management
 
 1. Verify user can register with valid details
 2. Verify user cannot register with invalid details
@@ -13,7 +13,7 @@
 9. Verify user remains logged-in after login
 10. Verify user session ends after logout
 
-## Product Catalog
+## 2. Product Catalog
 
 1. Verify user can search for products using valid keywords
 2. Verify system displays relevant results for searched queries
@@ -26,7 +26,7 @@
 9. Verify system displays products under respective brands
 10. Verify user can submit product review in product details page
 
-## Cart Management
+## 3. Cart Management
 
 1. Verify user can add products to cart
 2. Verify user can increase and decrease product quantity from product details page before adding to cart
@@ -35,7 +35,7 @@
 5. Verify user can remove product(s)
 6. Verify cart retains added product(s) after page refresh or navigation
 
-## Checkout & Payment
+## 4. Checkout & Payment
 
 1. Verify checkout page displays address details to logged-in user
 2. Verify system displays correct order details to logged-in user before payment
@@ -49,7 +49,7 @@
 10. Verify user can navigate back to home page after order completion
 11. Verify guest or logged out user is restricted from accessing checkout and payment
 
-## UI & Navigation
+## 5. UI & Navigation
 
 1. Verify user can navigate between Home, Products, Cart, Signup / Login, Test Cases, API Testing, Video Tutorials, and Contact us pages using the navigation menu
 2. Verify key UI elements (menu, buttons, and headings) are visible on all pages
