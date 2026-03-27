@@ -67,8 +67,8 @@ Testing will include functional, UI, positive, negative, edge case, and API test
 ## 8. Entry Criteria
 - Target website availability
 - Test environment ready
-- Required browsers installation
-- Automation tools installation
+- Required browsers installed
+- Automation tools installed
 - Test scenarios prepared
 
 ## 9. Exit Criteria
