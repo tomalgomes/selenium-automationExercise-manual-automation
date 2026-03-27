@@ -43,8 +43,7 @@ The following areas will be tested as part of this project:
 - User authentication workflows
 - Product browsing and search functionality
 - Shopping cart operations
-- Checkout process
-- Payment workflow
+- Checkout and payment workflows
 - UI validation of critical user interface components
 
 ## 5. Out of Scope
